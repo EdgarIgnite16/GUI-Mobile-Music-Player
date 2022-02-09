@@ -1,2 +1,2 @@
-# GUI-Mobile-Music-Player
+# Mobile-Music-Player
 create for learning
