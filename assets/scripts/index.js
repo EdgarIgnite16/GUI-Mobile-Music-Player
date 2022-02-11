@@ -173,7 +173,6 @@ const app = {
         this.render();
     },
 
-
     // Scroll to Active Song
     scrollToActiveSong: function() {
         setTimeout(()=> {
